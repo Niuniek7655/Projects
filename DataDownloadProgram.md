@@ -1,0 +1,1 @@
+﻿program do automatycznego pobierania danych z baz KRS CEIDG KRUS GUS

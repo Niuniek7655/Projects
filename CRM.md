@@ -1,0 +1,2 @@
+﻿Opis projektu
+Zlecę wykonanie CRM, w którym handlowcy (ok 20) będą mogli zapisywać informacje o swoich klientach, daty kolejnych kontaktów, notatki, itd. Jednocześnie będą mogli wpisywać do CRM zamówienia w momencie finalizacji sprzedaży. Następnie zamówienia te będzie mógł obrabiać dział backoffice statusując je odpowiednio wraz z procesem realizacji zamówienia. Potrzebuję narzędzie wydajne, przygotowane indywidualnie pod nasze potrzeby i nie za miliony.
