@@ -1,11 +1,16 @@
-﻿Opis projektu
+﻿# System dla firm opieki domowej (HomeCare)
+
+## Opis projektu
 Szukam programisty, freelancera lub małego zespołu IT do wykonania dedykowanego systemu informatycznego dla firmy świadczącej usługi opieki domowej.
-Projekt obejmuje stworzenie systemu do obsługi między innymi
-bazy klientów i pracowników,
-planowania i rejestrowania wizyt,
-aplikacji mobilnej dla pracowników terenowych,
-panelu dla oddziału / koordynatora,
-panelu księgowości,
-rozliczania różnych świadczeń i budżetów klienta,
-generowania rachunków, dokumentów i raportów.
-System ma zastąpić obecne rozwiązania oparte o Excel i dokumentację papierową.
+
+## Zakres systemu (główne moduły)
+- Baza klientów i pracowników
+- Planowanie i rejestrowanie wizyt
+- Aplikacja mobilna dla pracowników terenowych
+- Panel dla oddziału / koordynatora
+- Panel księgowości
+- Rozliczanie świadczeń i budżetów klienta
+- Generowanie rachunków, dokumentów i raportów
+
+## Cel
+System ma zastąpić istniejące rozwiązania oparte o Excel i dokumentację papierową, usprawniając zarządzanie i rozliczenia.

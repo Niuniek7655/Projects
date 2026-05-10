@@ -1,26 +1,33 @@
-﻿Opis projektu
-Zlecę wykonanie MVP aplikacji SaaS – system rezerwacji + SMS przypomnienia.
-Szukam osoby (freelancer / student IT) do stworzenia prostego MVP aplikacji webowej typu SaaS.
-Zakres MVP
-Rejestracja i logowanie użytkownika (firmy)
-Panel z kalendarzem wizyt
-Dodawanie usług (czas trwania, cena)
-Generowanie publicznego linku do rezerwacji
-Rezerwacja terminu przez klienta
-Automatyczne przypomnienie SMS 24h przed wizytą
-Prosty dashboard (liczba wizyt, przychód)
-Eksport danych do CSV
-Wymagania
-Doświadczenie w tworzeniu aplikacji webowych (React / Bubble / no-code)
-Umiejętność integracji API (SMS)
-Podstawowa wiedza o bezpieczeństwie danych
-Budżet
-do ustalenia w zależności od technologii
-Termin
-do ustalenia
-Dodatkowo
+﻿# System rezerwacji (MVP SaaS)
+
+## Opis projektu
+Zlecę wykonanie MVP aplikacji SaaS — system rezerwacji z przypomnieniami SMS. Szukam wykonawcy (freelancer / student IT) do stworzenia prostej aplikacji webowej.
+
+## Zakres MVP
+- Rejestracja i logowanie użytkownika (firma)
+- Panel z kalendarzem wizyt
+- Dodawanie usług (czas trwania, cena)
+- Generowanie publicznego linku do rezerwacji
+- Rezerwacja terminu przez klienta (przez publiczny link)
+- Automatyczne przypomnienie SMS 24h przed wizytą
+- Prosty dashboard (liczba wizyt, przychód)
+- Eksport danych do CSV
+
+## Wymagania
+- Doświadczenie w tworzeniu aplikacji webowych (np. React, Bubble lub no-code)
+- Umiejętność integracji z API (SMS)
+- Podstawowa wiedza o bezpieczeństwie danych
+
+## Budżet
+Do ustalenia w zależności od technologii.
+
+## Termin
+Do ustalenia.
+
+## Dodatkowo
 Możliwa dalsza współpraca przy rozwoju projektu.
-W zgłoszeniu proszę o
-krótką informację jak technologicznie byś to zrealizował
-link do GitHub / portfolio
-orientacyjny czas realizacji
+
+## W zgłoszeniu proszę o
+- Krótką informację, jak technologicznie byś to zrealizował
+- Link do GitHub / portfolio
+- Orientacyjny czas realizacji
